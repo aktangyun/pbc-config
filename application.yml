@@ -11,5 +11,5 @@ spring:
 spring:
   profiles: test   
   application:
-    name: pingbanche-config-dev
+    name: pingbanche-config-test
 
